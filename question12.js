@@ -9,3 +9,4 @@ function sumAndProduct(arr){
     console.log(product)
 }
 console.log(sumAndProduct([1,2,3,4,5]))
+

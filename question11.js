@@ -7,3 +7,4 @@ function sumOfSquares(arr){
     console.log(sum)
 }
 console.log(sumOfSquares([1,2,3,4,5]))
+
